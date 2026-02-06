@@ -31,6 +31,14 @@
     "value": "#FA3448FF",
     "type": "color"
   },
+  "secondaryButton": {
+    "value": "2",
+    "type": "number"
+  },
+  "Boolean": {
+    "value": true,
+    "type": "boolean"
+  },
   "gameLobbyTab": {
     "tabMenuBackgroundColorType": {
       "value": "5",
@@ -56,9 +64,5 @@
       "value": "#FA3448FF",
       "type": "color"
     }
-  },
-  "secondaryButton": {
-    "value": "2",
-    "type": "float"
   }
 }
