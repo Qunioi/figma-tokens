@@ -1,6 +1,6 @@
 {
   "textColor": {
-    "value": "#FFFFFFFF",
+    "value": "#FFFFFEFF",
     "type": "color"
   },
   "tabMenuType": {
@@ -12,7 +12,7 @@
     "type": "string"
   },
   "backgroundColor1": {
-    "value": "#FFA58CFF",
+    "value": "#FFA58DFF",
     "type": "color"
   },
   "backgroundColor2": {
@@ -37,7 +37,7 @@
       "type": "string"
     },
     "tabMenuBackgroundColor1": {
-      "value": "#FFA58CFF",
+      "value": "#FFA58DFF",
       "type": "color"
     },
     "tabMenuBackgroundColor2": {
@@ -59,6 +59,6 @@
   },
   "secondaryButton": {
     "value": "2",
-    "type": "number"
+    "type": "float"
   }
 }
