@@ -39,6 +39,10 @@
     "value": true,
     "type": "boolean"
   },
+  "Number": {
+    "value": "",
+    "type": "number"
+  },
   "gameLobbyTab": {
     "tabMenuBackgroundColorType": {
       "value": "5",
