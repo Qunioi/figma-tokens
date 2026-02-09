@@ -43,6 +43,10 @@
     "value": "",
     "type": "number"
   },
+  "Color": {
+    "value": "#FFFFFFFF",
+    "type": "color"
+  },
   "gameLobbyTab": {
     "tabMenuBackgroundColorType": {
       "value": "2",
