@@ -1,0 +1,68 @@
+{
+  "textColor": {
+    "value": "#FFFFFFFF",
+    "type": "color"
+  },
+  "tabMenuType": {
+    "value": "theme10",
+    "type": "string"
+  },
+  "tabMenuColor": {
+    "value": "blue",
+    "type": "string"
+  },
+  "backgroundColor1": {
+    "value": "#4EAAFCFF",
+    "type": "color"
+  },
+  "backgroundColor2": {
+    "value": "#1C5CFBFF",
+    "type": "color"
+  },
+  "backgroundColor3": {
+    "value": "#FFFFFFFF",
+    "type": "color"
+  },
+  "backgroundColor4": {
+    "value": "#FFFFFFFF",
+    "type": "color"
+  },
+  "backgroundColor5": {
+    "value": "#FFFFFFFF",
+    "type": "color"
+  },
+  "secondaryButton": {
+    "value": "2",
+    "type": "number"
+  },
+  "Boolean": {
+    "value": false,
+    "type": "boolean"
+  },
+  "gameLobbyTab": {
+    "tabMenuBackgroundColorType": {
+      "value": "2",
+      "type": "string"
+    },
+    "tabMenuBackgroundColor1": {
+      "value": "{backgroundColor1}",
+      "type": "color"
+    },
+    "tabMenuBackgroundColor2": {
+      "value": "{backgroundColor2}",
+      "type": "color"
+    },
+    "tabMenuBackgroundColor3": {
+      "value": "{backgroundColor3}",
+      "type": "color"
+    },
+    "tabMenuBackgroundColor4": {
+      "value": "{backgroundColor4}",
+      "type": "color"
+    },
+    "tabMenuBackgroundColor5": {
+      "value": "{backgroundColor5}",
+      "type": "color"
+    }
+  }
+}
