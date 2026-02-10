@@ -1,7 +1,8 @@
 {
   "textColor": {
     "value": "#FFFFFFFF",
-    "type": "color"
+    "type": "color",
+    "description": "主要文字顏色"
   },
   "tabMenuType": {
     "value": "theme10",
@@ -13,7 +14,8 @@
   },
   "backgroundColor1": {
     "value": "#4EAAFCFF",
-    "type": "color"
+    "type": "color",
+    "description": "123123123"
   },
   "backgroundColor2": {
     "value": "#1C5CFBFF",
@@ -40,8 +42,12 @@
     "type": "boolean"
   },
   "Number": {
-    "value": "",
+    "value": "2",
     "type": "number"
+  },
+  "Color": {
+    "value": "#FFFFFFFF",
+    "type": "color"
   },
   "gameLobbyTab": {
     "tabMenuBackgroundColorType": {
